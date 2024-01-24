@@ -350,7 +350,7 @@ p {
   cursor: pointer;
   font-size: 1rem;
   font-weight: 400;
-  border-bottom: 1px solid;
+  text-decoration: underline;
 }
 
 .flex {
@@ -364,6 +364,7 @@ p {
   gap: 10px;
   color: #ffffff;
   text-transform: capitalize;
+  text-decoration: underline;
 }
 
 h4 {
